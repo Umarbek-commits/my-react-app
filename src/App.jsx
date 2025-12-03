@@ -38,7 +38,7 @@ return (
 
 
 <footer className="footer">
-<p>Created by Nurzait — 2025</p>
+<p>Created by Oyatillo — 2025</p>
 </footer>
 </div>
 );
