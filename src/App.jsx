@@ -2,7 +2,7 @@ export default function App() {
 return (
 <div className="app-bg">
 <header className="navbar">
-<h1 className="logo">Oyatillo Portfolio</h1>
+<h1 className="logo">Oyatillo Portfolio.</h1>
 <nav>
 <a href="#home">Home</a>
 <a href="#projects">Projects</a>
