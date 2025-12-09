@@ -86,7 +86,7 @@ function App() {
           <div className="hero-image">
             <div className="profile-avatar">
               <div className="avatar-placeholder">
-                <span className="avatar-text">ИМ</span>
+                <span className="avatar-text">Good</span>
               </div>
             </div>
           </div>
